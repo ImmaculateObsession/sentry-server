@@ -1,0 +1,1 @@
+web: sentry --config=sentry_prod.conf.py start

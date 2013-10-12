@@ -1,4 +1,10 @@
+*.db
 *.log
 *.pot
 *.pyc
 local_settings.py
+
+.Python
+bin/
+lib/
+include/
